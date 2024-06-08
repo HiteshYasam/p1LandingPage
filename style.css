@@ -12,7 +12,7 @@ body, main, html{
 .top{
     width: 100%;
     min-height: 60vh;
-    background-image: url(/LandingPage/bg-top.png);
+    background-image: url(bg-top.png);
     background-size: cover;
     background-position: center;
 }
